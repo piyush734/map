@@ -1,0 +1,75 @@
+body
+{
+    margin: 0px;
+}
+
+.fullscreen
+{
+    width: 100%;
+    
+}
+
+.head{
+    background: url(../images/automobile-1845650_1920.jpg);
+    background-size: cover;
+    background-color: aqua;
+    height:90%;
+   
+}
+
+.logo{
+    width: 130px;
+    height: 120px;
+    margin-top: 280px;
+    margin-left: 40px;
+ }
+
+.name{
+    margin-top: 240px;
+    font-family: 'Overpass',serif;
+    font-size: 50px;   
+}
+
+.menu{
+    margin-left: 20px;
+    
+}
+
+.font{
+    font-family: 'Overpass',serif;
+}
+
+.panel{
+    border:2px solid teal;
+    border-radius: 10px;
+    padding: 30 30 0 30;
+}
+
+.border{
+    border:4px solid red;
+}
+
+.why{
+    text-align: justify;
+    font-family: 'Overpass',serif;
+    text-indent: inherit;
+    text-shadow: 0;
+    letter-spacing: 2px;  
+}
+
+
+
+
+
+
+
+    
+
+.modal {
+  max-height: 90% !important;
+  max-width: 50% !important ;
+}
+
+.modal-form-row {
+  margin-bottom: 0px;
+}
